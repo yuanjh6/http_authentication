@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'http_authentication'
-copyright = '2020, v1.0'
-author = 'v1.0'
+copyright = '2020, yuanj'
+author = 'yuanj'
 
 # The short X.Y version
 version = ''
@@ -39,8 +39,6 @@ release = 'v1.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.doctest',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -131,7 +129,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'http_authentication.tex', 'http\\_authentication Documentation',
-     'v1.0', 'manual'),
+     'yuanj', 'manual'),
 ]
 
 
@@ -173,6 +171,3 @@ epub_title = project
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
-
-
-# -- Extension configuration -------------------------------------------------
