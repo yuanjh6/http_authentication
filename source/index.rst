@@ -16,9 +16,6 @@ web研发安全方面，http认证鉴权知识点集锦
    http认证鉴权03OAuth2入门
    http认证鉴权04CSRF跨站请求伪造
 
-
-
-
 Indices and tables
 ==================
 
