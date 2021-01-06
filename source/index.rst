@@ -3,8 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to http_authentication's documentation!
+Welcome to http认证鉴权's documentation!
 ===============================================
+web研发安全方面，http认证鉴权知识点集锦
 
 .. toctree::
    :maxdepth: 2
